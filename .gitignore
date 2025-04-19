@@ -4,3 +4,4 @@
 # Bỏ qua thư mục venv (hoặc tên venv khác nếu có)
 venv/
 .venv/
+dataset/
